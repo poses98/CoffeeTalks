@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "705718784145",
+    "firebase_url": "https://coffeetalks-e4e57.firebaseio.com",
+    "project_id": "coffeetalks-e4e57",
+    "storage_bucket": "coffeetalks-e4e57.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:705718784145:android:89967f46ee507e92b9af30",
+        "android_client_info": {
+          "package_name": "com.highlevelindie.coffeetalks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "705718784145-k9b4bvh9j650l1oli9a5ftpaoh6gasav.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.highlevelindie.coffeetalks",
+            "certificate_hash": "35fc6dcbb10e0cd8c0563b5fe289c76aaf76a316"
+          }
+        },
+        {
+          "client_id": "705718784145-qcsakj9ev62kk87cll0tkbps8u68f0vv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqpYQ1FhyJsolyk2aePCRTtNHURPr23P4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "705718784145-qcsakj9ev62kk87cll0tkbps8u68f0vv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
